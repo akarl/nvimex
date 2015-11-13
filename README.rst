@@ -1,12 +1,16 @@
 Run neovim commands from your shell.
 ====================================
 
-INSTALL
-=======
+Install
+-------
 
 .. code::
 
     pip install nvimex
+
+
+Help
+----
 
 .. code::
 
