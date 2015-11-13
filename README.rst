@@ -1,7 +1,7 @@
 Run neovim commands from your shell.
 ====================================
 
-..code::
+.. code::
 
     Usage:
         nvimex <command>
