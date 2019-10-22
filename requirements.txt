@@ -6,7 +6,7 @@ neovim==0.0.38
 pkginfo==1.2.1
 py==1.4.30
 pytest==2.8.2
-requests==2.8.1
+requests==2.20.0
 requests-toolbelt==0.4.0
 trollius==2.0
 twine==1.6.4
